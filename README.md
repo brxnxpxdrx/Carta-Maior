@@ -1,6 +1,6 @@
-Boa! Aqui está um exemplo de **README.md** em Markdown para você documentar seu projeto no GitHub:
 
-```markdown
+```![Uploading carta-maior.png…]()
+markdown
 # 🎴 Carta Maior
 
 Um mini-jogo de cartas desenvolvido em **React + JavaScript**, onde dois jogadores recebem cartas aleatórias e vence quem tiver a carta de maior valor. 🚀  
