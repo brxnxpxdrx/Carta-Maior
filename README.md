@@ -195,7 +195,3 @@ Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ```
 
----
-
-Você quer que eu já **adicione badges (React, Tailwind, MIT License)** nesse README para deixá-lo mais chamativo no GitHub?
-```
